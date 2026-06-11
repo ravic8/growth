@@ -1,0 +1,46 @@
+{
+  "areas": [
+    {
+      "key": "job",
+      "name": "Job Preparation",
+      "priority": 1,
+      "allocation": 45,
+      "outcome": "Land a high-quality AI/data/backend role with materially better scope and compensation."
+    },
+    {
+      "key": "lens",
+      "name": "Lens",
+      "priority": 2,
+      "allocation": 25,
+      "outcome": "Build Lens into a serious AI-assisted financial research platform."
+    },
+    {
+      "key": "health",
+      "name": "Health",
+      "priority": 3,
+      "allocation": 15,
+      "outcome": "Reach peak fitness, remain smoke-free, and prepare for fatherhood."
+    },
+    {
+      "key": "quant",
+      "name": "Quant Research",
+      "priority": 4,
+      "allocation": 10,
+      "outcome": "Develop a differentiated AI, data, and quant engineering profile."
+    },
+    {
+      "key": "network",
+      "name": "Brand & Network",
+      "priority": 5,
+      "allocation": 5,
+      "outcome": "Create credibility and relationships that multiply opportunities."
+    }
+  ],
+  "decision_filter": [
+    "Better Health",
+    "Better Job",
+    "Better Lens",
+    "Better Quant Knowledge",
+    "Better Network"
+  ]
+}
